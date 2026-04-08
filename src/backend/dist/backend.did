@@ -1,0 +1,15 @@
+type Lead = 
+ record {
+   email: text;
+   id: nat;
+   message: text;
+   name: text;
+   phone: text;
+   "service": text;
+   timestamp: int;
+ };
+service : {
+  addLead: (name: text, email: text, phone: text, "service": text, message:
+   text) -> ();
+  getLeads: () -> (vec Lead) query;
+}

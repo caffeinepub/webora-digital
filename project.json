@@ -1,0 +1,22 @@
+{
+  "overview": "Webora Digital Solutions — a premium luxury single-page website with dark navy and gold aesthetic, all 9 brand sections, contact form backed by Motoko, and an admin dashboard to view all leads.",
+  "features": [
+    "Premium single-page website with 9 sections",
+    "Luxury dark navy + gold design with aurora gradients",
+    "Contact form with Motoko backend storage",
+    "Admin dashboard to view all submissions",
+    "Floating WhatsApp button",
+    "Playfair Display editorial headings",
+    "Smooth scroll reveals and micro-interactions",
+    "Responsive bento grid layouts"
+  ],
+  "category": "agency",
+  "tags": [
+    "agency",
+    "luxury",
+    "portfolio",
+    "contact-form",
+    "admin-panel"
+  ],
+  "last_updated": "2026-04-08T01:38:46.690Z"
+}
